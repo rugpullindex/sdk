@@ -1,13 +1,7 @@
-# HoneyBatcher
+# Rug Pull Index SDK
 
-[![unit tests](https://github.com/rugpullindex/honeybatcher/actions/workflows/main.yml/badge.svg)](https://github.com/rugpullindex/honeybatcher/actions/workflows/main.yml)
-[![lint: prettier-solidity](https://github.com/rugpullindex/honeybatcher/actions/workflows/lint.yml/badge.svg)](https://github.com/rugpullindex/honeybatcher/actions/workflows/lint.yml)
-
-> Like the animal, but for Ethereum transactions.
-
-## Learn More
-
-- [Introducing Honeybatcher](https://rugpullindex.com/blog#IntroducingHoneybatcher)
+[![unit tests](https://github.com/rugpullindex/sdk/actions/workflows/main.yml/badge.svg)](https://github.com/rugpullindex/honeybatcher/actions/workflows/main.yml)
+[![lint: prettier-solidity](https://github.com/rugpullindex/sdk/actions/workflows/lint.yml/badge.svg)](https://github.com/rugpullindex/honeybatcher/actions/workflows/lint.yml)
 
 ## Prerequisites
 
