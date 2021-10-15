@@ -1,0 +1,2 @@
+oceanprotocol-contracts/=lib/oceanprotocol-contracts/
+openzeppelin-solidity/=lib/openzeppelin-contracts/

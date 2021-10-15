@@ -13,7 +13,7 @@ jobs:
       with:
         nix_path: nixpkgs=channel:nixos-unstable
     - run: curl https://dapp.tools/install | sh
-    - run: dapp test -vv
+    - run: make test
 
 
 

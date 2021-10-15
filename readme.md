@@ -1,7 +1,7 @@
 # Rug Pull Index SDK
 
-[![unit tests](https://github.com/rugpullindex/sdk/actions/workflows/main.yml/badge.svg)](https://github.com/rugpullindex/honeybatcher/actions/workflows/main.yml)
-[![lint: prettier-solidity](https://github.com/rugpullindex/sdk/actions/workflows/lint.yml/badge.svg)](https://github.com/rugpullindex/honeybatcher/actions/workflows/lint.yml)
+[![unit tests](https://github.com/rugpullindex/sdk/actions/workflows/main.yml/badge.svg)](https://github.com/rugpullindex/sdk/actions/workflows/main.yml)
+[![lint: prettier-solidity](https://github.com/rugpullindex/sdk/actions/workflows/lint.yml/badge.svg)](https://github.com/rugpullindex/sdk/actions/workflows/lint.yml)
 
 ## Prerequisites
 
@@ -10,7 +10,7 @@
 ## Run Tests
 
 ```bash
-dapp test -vv
+make test
 ```
 
 ## LICENSE

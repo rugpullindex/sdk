@@ -1,6 +1,7 @@
-pragma solidity ^0.6.7;
+// @format
+pragma solidity ^0.5.7;
 
-import "ds-test/test.sol";
+import "../lib/ds-test/src/test.sol";
 
 import "./RugPullIndex.sol";
 

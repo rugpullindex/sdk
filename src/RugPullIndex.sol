@@ -1,5 +1,7 @@
 // @format
-pragma solidity ^0.6.7;
+pragma solidity ^0.5.7;
+
+import "oceanprotocol-contracts/contracts/balancer/BPool.sol";
 
 contract RugPullIndex {
     constructor() public {
